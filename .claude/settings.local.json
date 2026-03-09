@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp:*)",
+      "Bash(python3 -m json.tool)",
+      "Bash(npx:*)",
+      "Bash(python3:*)",
+      "Read(//home/itachi/Downloads/**)",
+      "Bash(ls:*)",
+      "mcp__figma__get_figma_data",
+      "WebFetch(domain:www.figma.com)",
+      "WebSearch",
+      "Bash(git:*)",
+      "Bash(/home/itachi/Desktop/solarweb/.gitignore:*)"
+    ]
+  }
+}
