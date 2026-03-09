@@ -7,7 +7,7 @@ export default function Footer({ minimal = false }) {
             <footer className="footer">
                 <div className="container">
                     <div className="footer-bottom" style={{ borderTop: 'none', paddingTop: 0 }}>
-                        <p>© 2026 Solar Solution Islamabad. All rights reserved.</p>
+                        <p>© 2026 Solar All rights reserved.</p>
                         <div className="footer-legal">
                             <Link to="/solar-panels">Solar Panels</Link>
                             <Link to="/inverters">Inverters</Link>
@@ -26,7 +26,7 @@ export default function Footer({ minimal = false }) {
                     <div className="footer-brand">
                         <Link to="/" className="logo">
                             <span className="logo-icon">☀</span>
-                            <span className="logo-text">Solar Solution <strong>Islamabad</strong></span>
+                            <span className="logo-text">Solar</span>
                         </Link>
                         <p>Clean, affordable solar energy for homes and businesses across the US. Powering a sustainable future.</p>
                         <div className="social-links">
@@ -71,7 +71,7 @@ export default function Footer({ minimal = false }) {
                     </div>
                 </div>
                 <div className="footer-bottom">
-                    <p>© 2026 Solar Solution Islamabad. All rights reserved.</p>
+                    <p>© 2026 Solar . All rights reserved.</p>
                     <a href="https://wa.me/923001234567" target="_blank" rel="noopener" className="footer-wa-btn">
                         <WhatsAppIcon width={16} height={16} />
                         Chat on WhatsApp

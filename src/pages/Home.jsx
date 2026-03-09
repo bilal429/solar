@@ -335,7 +335,7 @@ export default function Home() {
                                     <span className="contact-icon">📍</span>
                                     <div>
                                         <strong>Address</strong>
-                                        <span>House #16 Block, 52, G-7 Markaz G.9/2 G-7, Islamabad, 44000</span>
+                                        <span></span>
                                     </div>
                                 </div>
                                 <div className="contact-item">

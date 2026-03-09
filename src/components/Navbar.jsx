@@ -53,7 +53,7 @@ export default function Navbar() {
                 {/* Logo */}
                 <Link to="/" className="logo" onClick={() => setMobileOpen(false)}>
                     <span className="logo-icon">☀</span>
-                    <span className="logo-text">Solar Solution <strong>Islamabad</strong></span>
+                    <span className="logo-text">Solar</span>
                 </Link>
 
                 {/* Desktop links */}
